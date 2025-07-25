@@ -16,18 +16,20 @@ type: "home"
   </div>
 </a>
 
+<div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9; margin-bottom: 1em;">
 
 <a href="/movement/" style="text-decoration: none; color: inherit;">
   <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
-    <strong>❄️ Движение</strong>
-    <p>Согласованность движений тела и доски</p>
+    <strong>❄️ Движения тела</strong>
+    <p>Принципы построения и отыскания управляющих движений</p>
   </div>
 </a>
 
+<div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9; margin-bottom: 1em;">
 
 <a href="/trajectory/" style="text-decoration: none; color: inherit;">
   <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
-    <strong>❄️ Повороты</strong>
+    <strong>❄️ Движение доски</strong>
     <p>Первичность траектории</p>
   </div>
 </a>
