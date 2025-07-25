@@ -3,7 +3,7 @@ baseURL = "https://scicarve.github.io/"
 title = "ScienceOfCarving"
 languageCode = "ru"
 
-[params]
+[params.footer]
 content = '''
 <p style="font-size: 0.8em; color: #888; text-align: center;">
   Copyright<br>
