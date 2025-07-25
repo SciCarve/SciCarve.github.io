@@ -29,5 +29,7 @@ type: "home"
 - 💬 [Заходи в чат](https://t.me/SciCarveChat)
 - 📡 [Подписывайся на канал](https://t.me/SciCarve)
 
+<p style="font-size: 0.8em; color: #888;">
 Copyright 
 Information in this site is licensed under the CC-BY-NC-SA 4.0 International license
+</p>
