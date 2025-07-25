@@ -3,7 +3,7 @@ title: "Science of Carving"
 type: "home"
 ---
 
-Привет, сноубордист! Тут можно найти _Quick Tips_ по технике катания на сноуборде, актуальные на 2025-й год.
+Привет, сноубордист! Тут можно найти _Quick Tips_ по карвингу и технике катания на сноуборде, актуальные на 2025-й год.
 
 ### Предисловие
 
@@ -32,8 +32,8 @@ type: "home"
 ---
 
 ### 📖 Доп.материалы:
-- 💬 [Заходи в чат](https://t.me/SciCarveChat)
-- 📡 [Подписывайся на канал](https://t.me/SciCarve)
+- 💬 [Заходи в чат SciCarve](https://t.me/SciCarveChat)
+- 📡 [Подписывайся на канал ScienceOfCarving](https://t.me/SciCarve)
 - 📕 [Книга о поворотах от 2023-го года](https://telegra.ph/two-turns-hist-03-21)
 
 ---     
