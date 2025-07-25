@@ -5,8 +5,6 @@ languageCode = "ru"
 
 [params]
 footer = '''
-<p style="font-size: 0.8em; color: #888; text-align: center;">
   Copyright<br>
   Information in this site is licensed under the <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC-BY-NC-SA 4.0 International</a> license.
-</p>
 '''
