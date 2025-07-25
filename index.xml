@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Добро пожаловать в Science of Carving on ScienceOfCarving</title>
+    <title>Science of Carving on ScienceOfCarving</title>
     <link>https://scicarve.github.io/</link>
-    <description>Recent content in Добро пожаловать в Science of Carving on ScienceOfCarving</description>
+    <description>Recent content in Science of Carving on ScienceOfCarving</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>ru</language>
     <atom:link href="https://scicarve.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -28,9 +28,9 @@
     </item>
     <item>
       <title>Что важно в траектории</title>
-      <link>https://scicarve.github.io/trajactory/</link>
+      <link>https://scicarve.github.io/trajectory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://scicarve.github.io/trajactory/</guid>
+      <guid>https://scicarve.github.io/trajectory/</guid>
       <description>&lt;p&gt;Вход в поворот начинается наружу от его центра, вбок от линии падения склона. Выход из поворота начинается в апексе и заканчивается там, где будет вход в новый поворот.
 &lt;a href=&#34;https://t.me/SciCarve/188&#34;&gt;раз&lt;/a&gt;
 &lt;a href=&#34;https://t.me/SciCarve/187&#34;&gt;два&lt;/a&gt;
