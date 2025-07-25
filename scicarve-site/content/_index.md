@@ -9,10 +9,12 @@ type: "home"
 
 ### Ключевые концепции:
 
-<div style="border:1px solid #ccc; padding:1em; border-radius:0.5em;">
-  <strong>Стойка</strong>
-  <p>Базовая стойка — это динамическая осанка, а не статичное положение</p>
-</div>
+<a href="/stance/" style="text-decoration: none; color: inherit;">
+  <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
+    <strong>❄️ Стойка</strong>
+    <p>Базовая стойка — это динамическая осанка, а не статичное положение</p>
+  </div>
+</a>
 
 
 ❄️ **[Стойка](/stance/)**
