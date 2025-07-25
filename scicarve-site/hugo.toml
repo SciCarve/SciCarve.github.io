@@ -1,0 +1,4 @@
+theme = "PaperMod"
+baseURL = "https://scicarve.github.io/"
+title = "ScienceOfCarving"
+languageCode = "ru"
