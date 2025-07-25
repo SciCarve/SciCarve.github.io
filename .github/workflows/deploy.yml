@@ -25,6 +25,12 @@ jobs:
         with:
           hugo-version: '0.148.0'
 
+      - name: Init submodules
+        run: git submodule update --init --recursive
+
+      - name: Debug theme contents
+        run: ls -R scicarve-site/themes
+
       - name: Build site
         working-directory: scicarve-site
         run: hugo
