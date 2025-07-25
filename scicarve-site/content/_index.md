@@ -15,18 +15,14 @@ type: "home"
     <p>Базовая стойка как динамическая осанка, а не статичное положение</p>
   </div>
 </a>
-
-<div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9; margin-bottom: 1em;">
-
+\n
 <a href="/movement/" style="text-decoration: none; color: inherit;">
   <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
     <strong>❄️ Движения тела</strong>
     <p>Принципы построения и отыскания управляющих движений</p>
   </div>
 </a>
-
-<div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9; margin-bottom: 1em;">
-
+\n
 <a href="/trajectory/" style="text-decoration: none; color: inherit;">
   <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
     <strong>❄️ Движение доски</strong>
