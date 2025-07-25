@@ -9,18 +9,11 @@ type: "home"
 
 ### Ключевые концепции:
 
-{{< card >}}
-{{< card.header >}}
-{{< card.title >}}Стойка{{</ card.title >}}
-{{< card.subtitle >}}_Базовая стойка — это динамическая осанка, а не статичное положение_{{</ card.subtitle >}}
-{{</ card.header >}}
+<div style="border:1px solid #ccc; padding:1em; border-radius:0.5em;">
+  <strong>Стойка</strong>
+  <p>Базовая стойка — это динамическая осанка, а не статичное положение</p>
+</div>
 
-{{< card.body >}}
-{{</ card.body >}}
-
-{{< card.footer >}}
-{{</ card.footer >}}
-{{</ card >}}
 
 ❄️ **[Стойка](/stance/)**
 > _Базовая стойка — это динамическая осанка, а не статичное положение_
