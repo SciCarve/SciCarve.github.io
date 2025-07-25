@@ -9,26 +9,17 @@ type: "home"
 
 ### Ключевые концепции:
 
-<a href="/stance/" style="text-decoration: none; color: inherit;">
-  <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
-    <strong>❄️ Стойка</strong>
-    <p>Базовая стойка как динамическая осанка, а не статичное положение</p>
-  </div>
-</a>
+{{< card title="❄️ Стойка" link="/stance/" >}}
+Базовая стойка как динамическая осанка, а не статичное положение
+{{< /card >}}
 
-<a href="/movement/" style="text-decoration: none; color: inherit;">
-  <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
-    <strong>❄️ Движения тела</strong>
-    <p>Принципы построения и отыскания управляющих движений</p>
-  </div>
-</a>
+{{< card title="❄️ Движения тела" link="/movement/" >}}
+Принципы построения и отыскания управляющих движений
+{{< /card >}}
 
-<a href="/trajectory/" style="text-decoration: none; color: inherit;">
-  <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
-    <strong>❄️ Движение доски</strong>
-    <p>Первичность траектории</p>
-  </div>
-</a>
+{{< card title="❄️ Движение доски" link="/trajectory/" >}}
+Первичность траектории
+{{< /card >}}
 
 ---
 
