@@ -1,2 +1,1 @@
-# two-turns
-Книга о поворотах на доске
+SciCarve на Hugo
