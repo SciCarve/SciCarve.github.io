@@ -28,15 +28,12 @@ jobs:
       - name: Init submodules
         run: git submodule update --init --recursive
 
-      - name: Debug theme contents
-        run: ls -R scicarve-site/themes
-
       - name: Build site
         working-directory: scicarve-site
         run: hugo
-
-      - name: List contents of public dir
-        run: ls -R scicarve-site/public
+      
+      - name: Add CNAME file
+        run: echo 'www.carvebook.ru' > ./scicarve-site/public/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
