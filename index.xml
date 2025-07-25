@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Главная on ScienceOfCarving</title>
+    <title>Добро пожаловать в Science of Carving on ScienceOfCarving</title>
     <link>https://scicarve.github.io/</link>
-    <description>Recent content in Главная on ScienceOfCarving</description>
+    <description>Recent content in Добро пожаловать в Science of Carving on ScienceOfCarving</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>ru</language>
     <atom:link href="https://scicarve.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Что важно в движении</title>
+      <link>https://scicarve.github.io/movement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://scicarve.github.io/movement/</guid>
+      <description>&lt;p&gt;Все движения должны выстраиваться относительно доски. Представь: когда ты заходишь в поворот на велосипеде, ты не &amp;ldquo;доворачиваешь&amp;rdquo; какие-либо части тела отдельно — ты заходишь в поворот вместе с велосипедом. Ты и велосипед — одно целое. Вы двигаетесь вместе и движение тела подчиняется движению велосипеда. Нет необходимости поворачивать тело в поворот, потому что тело в поворот поворачивается велосипедом.
+Так и на доске. Нужно ехать вместе с доской, а не пытаться поворачивать &amp;ldquo;телом отдельно от неё&amp;rdquo;. Положение тела должно быть привязано к доске. Чтобы это было возможно, нужно жёстко и стабильно стоять на доске, уперевшись в неё обоими ногами. Без этого невозможно строить движения через доску.
+Идеи о компенсационных ротациях возможны только в системах, где тело движется абстрактно от доски.
+Оба поворота штрафуют за излишне большое количество неуправляемой инерционной массы, выведенное далеко от доски внутрь поворота. Фронт штрафует за сгиб (вывешивание корпуса), когда плечи идут в поворот вперед колен. Бэк штрафует за пере-откидывание, когда плечи заваливаются в поворот быстрее таза или таз уходит слишком далеко от доски на бедрах.
+&lt;a href=&#34;https://t.me/SciCarve/102&#34;&gt;раз&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Что важно в стойке</title>
+      <link>https://scicarve.github.io/stance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://scicarve.github.io/stance/</guid>
+      <description>&lt;p&gt;Базис привязан к доске. Стойка выстраивается относительно доски. Движения выстраиваются относительно доски. Доска может поворачивать, доска может наклоняться. Тогда система координат стойки должна наклоняться и поворачивать то же. Не стойка должна меняться. Стойка и движения должны строиться в неинерционной системе двигающегося снаряда.&lt;/p&gt;
+&lt;p&gt;Прямых ног в горнолыжке не существует -&amp;gt; полностью выпрямленные ноги в линию – это полностью разломанная стойка. В самой высокой позиции ноги должны быть минимум на 8-10 градусов согнуты в коленных суставах.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Что важно в траектории</title>
+      <link>https://scicarve.github.io/trajactory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://scicarve.github.io/trajactory/</guid>
+      <description>&lt;p&gt;Вход в поворот начинается наружу от его центра, вбок от линии падения склона. Выход из поворота начинается в апексе и заканчивается там, где будет вход в новый поворот.
+&lt;a href=&#34;https://t.me/SciCarve/188&#34;&gt;раз&lt;/a&gt;
+&lt;a href=&#34;https://t.me/SciCarve/187&#34;&gt;два&lt;/a&gt;
+&lt;a href=&#34;https://t.me/SciCarve/180&#34;&gt;три&lt;/a&gt;
+&lt;a href=&#34;https://t.me/SciCarve/131&#34;&gt;четыре&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Доски имеют свою ритмику, определяющую поворот. Угол закантовки связан со скоростью и уклоном. Чем больше дисбаланс этого отношения – тем больше «трюка» в езде. Каждому элементу/положению – свое место и время. Скорость растет, глубина и амплитуда поворотов растет. Повороты надо раскачивать в ритм доске.
+&lt;a href=&#34;https://t.me/SciCarve/163&#34;&gt;пять&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
