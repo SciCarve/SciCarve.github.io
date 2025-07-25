@@ -16,12 +16,14 @@ type: "home"
   </div>
 </a>
 
+
 <a href="/movement/" style="text-decoration: none; color: inherit;">
   <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
     <strong>❄️ Движение</strong>
     <p>Согласованность движений тела и доски</p>
   </div>
 </a>
+
 
 <a href="/trajectory/" style="text-decoration: none; color: inherit;">
   <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
