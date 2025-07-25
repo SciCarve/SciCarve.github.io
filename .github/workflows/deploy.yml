@@ -28,9 +28,6 @@ jobs:
       - name: Build site
         run: hugo --source scicarve-site
 
-      - name: Debug token
-        run: echo "GITHUB_TOKEN is ${{ secrets.GITHUB_TOKEN }}"
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
