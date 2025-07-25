@@ -1,7 +1,6 @@
 ---
 title: "Что важно в траектории спуска"
-header:
-  disable: true
+hideTitle: true
 ---
 ### Геометрия спуска
 
