@@ -12,19 +12,23 @@ type: "home"
 <a href="/stance/" style="text-decoration: none; color: inherit;">
   <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
     <strong>❄️ Стойка</strong>
-    <p>Базовая стойка — это динамическая осанка, а не статичное положение</p>
+    <p>Базовая стойка как динамическая осанка, а не статичное положение</p>
   </div>
 </a>
 
+<a href="/movement/" style="text-decoration: none; color: inherit;">
+  <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
+    <strong>❄️ Движение</strong>
+    <p>Согласованность движений тела и доски</p>
+  </div>
+</a>
 
-❄️ **[Стойка](/stance/)**
-> _Базовая стойка — это динамическая осанка, а не статичное положение_
-
-❄️ **[Движение](/movement/)**
-> _Едь вместе с доской_
-
-❄️ **[Повороты](/trajectory/)**
-> _Невозможно управлять поворотом, которого нет_
+<a href="/trajectory/" style="text-decoration: none; color: inherit;">
+  <div style="border:1px solid #ccc; padding:1em; border-radius:0.5em; transition: 0.2s; background-color: #f9f9f9;">
+    <strong>❄️ Повороты</strong>
+    <p>Первичность траектории</p>
+  </div>
+</a>
 
 ---
 
