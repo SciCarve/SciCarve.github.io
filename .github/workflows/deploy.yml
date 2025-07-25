@@ -6,7 +6,7 @@ on:
       - main  # или master, в зависимости от названия основной ветки
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
