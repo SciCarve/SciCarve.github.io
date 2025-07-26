@@ -40,7 +40,12 @@ type: "home"
 - 📡 [Подписывайся на канал ScienceOfCarving](https://t.me/SciCarve)
 - 📕 [Книга о поворотах от 2023-го года](https://telegra.ph/two-turns-hist-03-21)
 
----     
+---
 
 ### 🚀 Changelog
 - . . . 
+
+---
+
+Copyright 
+Information in this channel is licensed under the CC-BY-NC-SA 4.0 International license
