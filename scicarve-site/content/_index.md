@@ -47,5 +47,6 @@ type: "home"
 
 ---
 
-Copyright 
-Information in this channel is licensed under the CC-BY-NC-SA 4.0 International license
+Copyright
+
+Information in this site is licensed under the CC-BY-NC-SA 4.0 International license
