@@ -31,6 +31,7 @@ title: "Важное в движениях"
 - [Второй ключ](https://t.me/SciCarve/185)
 - [Тансегрити](https://t.me/SciCarve/93)
 - [Пантомима про стойку](https://t.me/SciCarve/193)
+- [Глава 6. Физика поворотов](https://telegra.ph/force-03-23-3)
 
 ---
 
