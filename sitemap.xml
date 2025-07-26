@@ -4,6 +4,8 @@
   <url>
     <loc>https://scicarve.github.io/categories/</loc>
   </url><url>
+    <loc>https://scicarve.github.io/study/</loc>
+  </url><url>
     <loc>https://scicarve.github.io/</loc>
   </url><url>
     <loc>https://scicarve.github.io/tags/</loc>
@@ -13,7 +15,5 @@
     <loc>https://scicarve.github.io/trajectory/</loc>
   </url><url>
     <loc>https://scicarve.github.io/stance/</loc>
-  </url><url>
-    <loc>https://scicarve.github.io/study/</loc>
   </url>
 </urlset>
