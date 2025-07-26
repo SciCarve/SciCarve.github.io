@@ -10,8 +10,3 @@ languageCode = "ru"
 
 [params.assets]
 customCSS = ["css/custom.css"]
-
-[params]
-  enableCopyright: true
-  licenseLink: "https://creativecommons.org/licenses/by-nc/4.0/"
-  licenseName: "CC BY-NC-SA 4.0"
