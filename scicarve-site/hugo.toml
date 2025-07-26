@@ -10,3 +10,6 @@ languageCode = "ru"
 
 [params.assets]
 customCSS = ["css/custom.css"]
+
+[params]
+  copyright = "© 2025 ScienceOfCarving"

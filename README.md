@@ -1,1 +1,1 @@
-SciCarve на Hugo
+Сайт SciCarve на Hugo PaperMod
