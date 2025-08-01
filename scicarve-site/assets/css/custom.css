@@ -1,0 +1,41 @@
+.card-button {
+  display: block;
+  padding: 1.25em;
+  border: 2px solid #007acc;
+  border-radius: 0.75em;
+  background-color: #e6f0fa;
+  color: #003366;
+  text-decoration: none;
+  margin-bottom: 1em;
+  transition: all 0.2s ease;
+  font-weight: 500;
+}
+
+.card-button:hover {
+  background-color: #d0e7f9;
+  border-color: #005fa3;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.card-button strong {
+  display: block;
+  font-size: 1.25em;
+  margin-bottom: 0.3em;
+}
+
+.card-button p {
+  margin: 0;
+  font-size: 1em;
+}
+
+/* Тёмная тема */
+.dark .card-button {
+  background-color: #1e2a38;
+  color: #cce4ff;
+  border-color: #3388cc;
+}
+
+.dark .card-button:hover {
+  background-color: #27394d;
+  border-color: #4da3ff;
+}

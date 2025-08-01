@@ -1,0 +1,15 @@
+theme = "PaperMod"
+baseURL = "https://scicarve.github.io/"
+title = "ScienceOfCarving"
+languageCode = "ru"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params]
+  customFooter = true
